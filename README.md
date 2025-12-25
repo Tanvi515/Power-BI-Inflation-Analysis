@@ -27,6 +27,9 @@ Analyze inflation trends across countries and regions.
 
 
 ## Dashboard Preview
+The dashboard presents inflation trends over time, region-wise comparisons,
+and year-over-year inflation rate changes using interactive visuals.
+
 (see screenshots folder)
 
 <img width="1332" height="744" alt="Dashboard2" src="https://github.com/user-attachments/assets/a7ab344f-8de4-4c9d-9bd6-599f847fa788" />
