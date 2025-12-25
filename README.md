@@ -1,4 +1,5 @@
 # Power-BI-Inflation-Analysis
+Video demo: https://drive.google.com/file/d/1_26VJWIzj8YkLKlk41wIk2Jw2a_gkbSG/view?usp=drive_link
 # Global Inflation Analysis – Power BI
 This project focuses on analyzing global inflation data using Power BI.
 The goal is to understand how inflation varies across countries and regions
